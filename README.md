@@ -1,4 +1,4 @@
-# Cinema Room Manager Final code of Project with stages:open_book::computer::computer_mouse:
+# Cinema Manager Final code of Project with stages:cinema::office_worker:
 
 ### Stage :one:<br />
 Visualize the seating arrangement by printing it to the console.
